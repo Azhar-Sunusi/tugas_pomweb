@@ -26,8 +26,6 @@ Tampilan mirip halaman profil Instagram dengan:
 ├── index.html
 └── README.md
 
-bash
-Copy code
 
 ## Cara Menjalankan
 1. Clone repositori ini:
